@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Mini tiny React project to learn RTK ( Redux Tool Kit ) :D
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
